@@ -32,3 +32,8 @@ El polinomio deberá:
 │       └── autograding.yml
 │
 └── README.md
+
+
+## Archivos que debe modificar el estudiante
+
+```Solo los que estan en src
